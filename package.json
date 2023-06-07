@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-14/",
+    "build": "vite build --base=/html_css_88_Tamia5/",
     "preview": "vite preview"
   },
   "devDependencies": {
